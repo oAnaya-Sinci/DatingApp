@@ -1,0 +1,12 @@
+.dropdown-toggle {
+    color: #FFF
+}
+
+.dropdown .dropdown-toggle,
+.dropdown .dropdown-menu .dropdown-item {
+    cursor: pointer
+}
+
+.nav-link {
+    color: #FFF;
+}
